@@ -18,6 +18,8 @@ export default async function audio(req: NextApiRequest, res: NextApiResponse) {
     title: 'Your_title_here',
   });
   console.log("End of the Audio function", audioInfo)
+  console.log("End of the Audio function", audioInfo)
+
 
   // const yt = async () => {
 
